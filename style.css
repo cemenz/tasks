@@ -1,0 +1,11 @@
+.completed {
+    text-decoration: line-through;
+}
+
+li.even {
+    background-color: lightblue;
+}
+
+li.highlighted {
+    background-color: lightgreen;
+}
